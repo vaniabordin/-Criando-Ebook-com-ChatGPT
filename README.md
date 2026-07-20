@@ -92,8 +92,6 @@ Para destacar a mensagem principal de cada capítulo durante a diagramação, fo
 │   └── capa-ebook.png
 ├── output/
 │   └── Analise_de_Dados_Descomplicada.pdf
-├── prompts/
-│   └── prompts-utilizados.md
 └── README.md
 ```
 
@@ -103,18 +101,19 @@ Para destacar a mensagem principal de cada capítulo durante a diagramação, fo
 
 O e-book completo está disponível neste repositório em formato PDF.
 
-📄 **Analise_de_Dados_Descomplicada.pdf**
+📄 **Analise_de_Dados_Descomplicada.pdf** [Ebook](./output/Analise_de_Dados_Descomplicada.pdf)
 
 ---
 
 # 👩‍💻 Autora
 
-**Vânia Bordin**
+### Vânia Bordin
+[GitHub](https://github.com/vaniabordin) | [LinkedIn](https://www.linkedin.com/in/vaniabordin)
 
-Projeto desenvolvido para fins educacionais e composição de portfólio na área de **Ciência de Dados**.
-
+> Projeto baseado no repositório do expert [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook).
 ---
 
-## 💙 Agradecimentos
-
-Projeto desenvolvido durante o desafio **"Criando um E-book com ChatGPT"** promovido pela **DIO (Digital Innovation One)**, explorando o uso da Inteligência Artificial na criação de conteúdo técnico.
+---
+<p align="center">
+  Feito com 💜 por Vânia Bordin
+</p>
