@@ -99,11 +99,16 @@ Para destacar a mensagem principal de cada capítulo durante a diagramação, fo
 
 # 📚 Visualizar o E-book
 
-O e-book completo está disponível neste repositório em formato PDF.
+Clique abaixo para acessar o material completo.
 
-📄 **Analise_de_Dados_Descomplicada.pdf** [Ebook](./output/Analise_de_Dados_Descomplicada.pdf)
-
+📄 **[Abrir o e-book](output/Analise_de_Dados_Descomplicada.pdf)**
 ---
+
+## 💡 Sobre o desafio
+
+Este projeto foi desenvolvido como parte do desafio **"Criando um E-book com ChatGPT  & MidJourney"** da DIO.
+
+O objetivo foi utilizar Inteligência Artificial Generativa para criar um material educativo, documentando os prompts utilizados e organizando todo o processo em um repositório GitHub.
 
 # 👩‍💻 Autora
 
@@ -112,8 +117,3 @@ O e-book completo está disponível neste repositório em formato PDF.
 
 > Projeto baseado no repositório do expert [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook).
 ---
-
----
-<p align="center">
-  Feito com 💜 por Vânia Bordin
-</p>
