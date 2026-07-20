@@ -90,7 +90,7 @@ Para destacar a mensagem principal de cada capítulo durante a diagramação, fo
 📦 analise-dados-descomplicada
 ├── assets/
 │   └── capa-ebook.png
-├── ebook/
+├── output/
 │   └── Analise_de_Dados_Descomplicada.pdf
 ├── prompts/
 │   └── prompts-utilizados.md
